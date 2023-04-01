@@ -551,9 +551,9 @@ Kegiatan Saya saat ini sedang:
 - Memperbarui WebApp second brain bernama RipLabs, www.riplabs.id
 - Memperbarui Web Pembuatan CV Online, www.cvmilenial.com
 
-Github: [https://github.com/arifsiddikm](https://github.com/arifsiddikm)
-Portfolio: [https://arifsiddikm.com](www.arifsiddikm.com)
-Instagram: [https://instagram.com/arifsiddikm/](@arifsiddikm)
-LinkedIn: [https://www.linkedin.com/in/arif-siddik-muharam/](Arif Siddik Muharam)
+Github: [https://github.com/arifsiddikm](https://github.com/arifsiddikm) <br/>
+Portfolio: [https://arifsiddikm.com](www.arifsiddikm.com) <br/>
+Instagram: [https://instagram.com/arifsiddikm/](@arifsiddikm) <br/>
+LinkedIn: [https://www.linkedin.com/in/arif-siddik-muharam/](Arif Siddik Muharam) <br/>
 
 <hr/>
