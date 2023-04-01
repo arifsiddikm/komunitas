@@ -540,7 +540,7 @@ Terima kasih kepada **Mas Eka Putra** untuk video tutorial dan motivasinya, sert
 
 <hr/>
 
-Hallo, Perkenalkan nama Saya **Arif Siddik Muharam**, seorang **Full Stack Web Developer** dari Cilegon, Banten.
+Hallo, Perkenalkan nama Saya **Arif Siddik Muharam**, seorang **Full Stack Web Developer** dari **Cilegon, Banten**.
 Kegiatan saat ini yaitu bekerja dan berkuliah. Saat ini Saya build web menggunakan CodeIgniter, ReactJS, MySQL, dan Saya juga sedang mempelajari Laravel serta React Native.
 Selain memiliki Web Portfolio, Saya memiliki web **[https://riplabs.id](www.riplabs.id)** dan **[https://cvmilenial.com](www.cvmilenial.com)** yang bisa teman-teman kunjungi dan gunakan.
 
@@ -548,12 +548,12 @@ Kegiatan Saya saat ini sedang:
 - Bekerja 
 - Berkuliah 
 - Mempelajari React JS, React Native, Laravel, NextJS
-- Memperbarui WebApp second brain bernama RipLabs, www.riplabs.id
-- Memperbarui Web Pembuatan CV Online, www.cvmilenial.com
+- Memperbarui WebApp second brain bernama RipLabs, **[https://riplabs.id](www.riplabs.id)**
+- Memperbarui Web Pembuatan CV Online, **[https://cvmilenial.com](www.cvmilenial.com)**
 
 Github: [https://github.com/arifsiddikm](https://github.com/arifsiddikm) <br/>
 Portfolio: [https://arifsiddikm.com](www.arifsiddikm.com) <br/>
 Instagram: [https://instagram.com/arifsiddikm/](@arifsiddikm) <br/>
-LinkedIn: [https://www.linkedin.com/in/arif-siddik-muharam/](Arif Siddik Muharam) <br/>
+LinkedIn: [https://www.linkedin.com/in/arif-siddik-muharam/](Arif-Siddik-Muharam) <br/>
 
 <hr/>
